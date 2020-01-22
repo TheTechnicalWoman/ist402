@@ -38,10 +38,14 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## WordPress CMS
+A CMS is software that allows users to manage and modify digital content on the web. WordPress is a free, CMS based, open source software platform that allows users to create highly customizable content specifically for managing/creating a website or blog. Users can either utilize installed templates and plugins to create a site, or can create a fully customized site using the MySQL database, PHP, and HTML. Websites can be hosted through the WordPress platform or downloaded and hosted on private hosts/servers.
 
+WordPress's customizable nature is based around a standardized API, allowing developers to maintain updates throughout the platform. A variety of plugins are available to include other features on a users' site, such as ecommerce solutions, SEO solutions, analytics, and social media integration, among others. 
 
-## Backdrop CMS
-
+Articles to learn more:
+-[5 Reasons to Use a CMS] (https://www.theedigital.com/blog/top-reasons-to-use-a-content-management-system)
+-[6 Important Reasons Why You Should Use WordPress for Your Website] (https://www.wpbeginner.com/why-you-should-use-wordpress/)
+-[WordPress CMS] (https://www.investopedia.com/terms/w/wordpress-cms.asp)
 
 ## GravCMS
 
